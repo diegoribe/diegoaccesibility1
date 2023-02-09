@@ -28,13 +28,6 @@
       margin: 10px;
 }
 
-.diego {
-    background-image: url(./2022-09-15_13-15-20_01.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    display: block;
-    color: white;
-}
 
 .image1 {
     width: 129px;
@@ -44,15 +37,4 @@
 
 .imagediego {
     display: block;
-}
-
-.visibility {
-    border: 0; 
-    clip: rect(0 0 0 0); 
-    height: 1px; 
-    margin: -1px; 
-    overflow: hidden; 
-    padding: 0; 
-    position: absolute; 
-    width: 1px; 
 }
